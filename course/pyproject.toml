@@ -6,10 +6,11 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "groq>=1.1.1",
+    "minsearch>=0.0.10",
     "python-dotenv>=1.2.2",
     "python-frontmatter>=1.1.0",
     "requests>=2.32.5",
-    "tqdm>=4.67.3",
+    "sentence-transformers>=5.3.0",
 ]
 
 [dependency-groups]
