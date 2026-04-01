@@ -56,5 +56,11 @@ def log_interaction_to_file(agent, messages, source='user'):
 
     return filepath
 
+def load_log_file(log_file):
+    with open(log_file, 'r') as f_in:
+        log_data = json.load(f_in)
+        log_data['log_file'] = log_file
+        return log_data
+
 
 

@@ -1,0 +1,12 @@
+[
+  "What is the purpose of the 'zone' table in the SQL query provided for Question 5?",
+  "How do I submit ad-hoc queries against my connections using 'bruin query'?",
+  "What is the purpose of Prefect Secret blocks and how do I create one?",
+  "What is the difference between a pass-through Flink job and a regular Flink job?",
+  "What are the two main things you want in your data marts, according to the provided text?",
+  "How do I initialize a new project using 'bruin init'?",
+  "What is the purpose of the 'resolve_schema_for' macro in dbt and how does it work?",
+  "How do I troubleshoot issues in the Data Engineering Zoomcamp course?",
+  "What is the best way to ask questions in the course's Slack channel?",
+  "How do I clean up local files after completing an exercise or project?"
+]
